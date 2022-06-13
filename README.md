@@ -11,9 +11,9 @@ http://127.0.0.1:5000
 Animation de surbrillance + déplacement des rectangles.
 
 Normal :
-![alt text](https://zupimages.net/up/22/24/mstl.png)
+![alt text](https://zupimages.net/up/22/24/ader.png)
 
 Hover :
-![alt text](https://zupimages.net/up/22/24/ofmq.png)
+![alt text](https://zupimages.net/up/22/24/8wwt.png)
 
 
