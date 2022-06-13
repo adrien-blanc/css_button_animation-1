@@ -10,10 +10,10 @@ http://127.0.0.1:5000
 ## Result 
 Animation de surbrillance + déplacement des rectangles.
 
-Normal :
+Normal :<br>
 ![alt text](https://zupimages.net/up/22/24/ader.png)
 
-Hover :
+Hover :<br>
 ![alt text](https://zupimages.net/up/22/24/8wwt.png)
 
 
